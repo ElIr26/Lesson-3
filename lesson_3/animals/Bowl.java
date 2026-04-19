@@ -1,4 +1,4 @@
-package animals;
+package lesson_3.animals;
 
 public class Bowl {
     private int foodAmount;
