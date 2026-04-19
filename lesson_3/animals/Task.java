@@ -1,4 +1,4 @@
-package animals;
+package lesson_3.animals;
 
 public class Task {
     public static void main(String[] args) {
