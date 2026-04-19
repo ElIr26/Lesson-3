@@ -1,4 +1,4 @@
-package figures;
+package lesson_3.figures;
 
 public class Task {
     public static void main(String[] args) {
