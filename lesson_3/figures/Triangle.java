@@ -1,4 +1,4 @@
-package figures;
+package lesson_3.figures;
 
 public class Triangle implements Figure {
     private double sideA;
