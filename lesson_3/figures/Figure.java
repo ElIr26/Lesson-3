@@ -1,4 +1,4 @@
-package figures;
+package lesson_3.figures;
 
 public interface Figure {
     double getPerimeter();
